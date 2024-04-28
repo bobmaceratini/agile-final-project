@@ -1,21 +1,3 @@
----
-name: Custom issue template
-about: Custom Template for Agile Final Project
-title: ''
-labels: ''
-assignees: ''
-
----
-
----
-name: User Story
-about: This teamplate is for creating user stories
-title: ''
-labels: ''
-assignees: ''
-
----
-
 **As a** [role]  
  **I need** [function]  
  **So that** [benefit]  
